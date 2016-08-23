@@ -1,0 +1,90 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+div.Rounded{
+    padding-left:30px;
+    border-radius:5px;
+}
+
+.divider {
+  height: 2px;
+  width:100%;
+  display:block; /* for use on default inline elements like span */
+  margin: 0px 0px 0px 0px;
+  overflow: hidden;
+  background-color: #000000;
+}
+
+.na {
+    background-color:red;
+}
+
+
+.btn {
+    font-size: 140%;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    border: 0;
+    background-color: #16214D;
+    color: white;
+}
+
+.btn:hover {
+    background-color: #44C7F4;
+}
+
+.btn:focus {
+    outline: none !important;
+}
+
+.btn.btn-lg {
+    padding: 20px 30px;
+}
+
+.btn:disabled {
+    background-color: #333;
+    color: #666;
+}
+
+h1,
+h2,
+h3 {
+    font-weight: 100;
+}
+
+#logo img {
+    width: 300px;
+    margin-bottom: 60px;
+}
+
+h2 {
+    margin-top: 30px;
+    margin-bottom: 40px;
+    font-size: 200%;
+}
+
+.login-page .login-box {
+    padding: 100px 0;
+}

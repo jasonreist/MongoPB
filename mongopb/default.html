@@ -1,0 +1,74 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Paycheck Budget</title>
+
+    <script src="Scripts/auth0-variables.js"></script>
+    <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script src="https://cdn.auth0.com/js/lock-9.0.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular-route.js"></script>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+    <!-- font awesome from BootstrapCDN -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+
+    <!--<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>-->
+
+    <script src="Scripts/bootstrap.min.js"></script>
+
+    <link rel="stylesheet" href="content/bootstrap.css" />
+    <link rel="stylesheet" href="content/style.css" />
+
+    <script src='app/main.js'></script>
+    <script src='app/app.module.js'></script>
+    <script src='app/app.component.js'></script>
+</head>
+
+<body ng-app="PaycheckBudget">
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#">Paycheck Budget</a>
+            </div>
+            <div id="navbar" class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li id="ddAccount" class="dropdown" style="display:none;">
+                        <a href="javascript: {}" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Account <span class="caret"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="#calendar">Calendar</a></li>
+                            <li><a href="#bills">Bills</a></li>
+                            <li><a href="#income">Income</a></li>
+                            <li><a href="#settings">Settings</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    <li style="margin-top:3px;"><img class="avatar" height="40" width="40" style="display:none;" /></li>
+                    <li><a class="name"></a></li>
+                    <li><a href="#" class="btn-login login-box">Login</a><a href="https://mongopb.auth0.com/v2/logout?returnTo=https://www.paycheckbudget.com&client_id=LsJtKYP0pCBCiHDbk3ZzPDyBSYiKyl40" class="btn-logout logged-in-box" style="display:none;">Logout</a></li>
+                </ul>
+
+            </div><!--/.nav-collapse -->
+        </div>
+    </nav>
+
+    <div class="container" style="margin-top:25px;">
+        <div class="jumbotron">
+            <div ng-view></div>
+        </div>
+        <div footer></div>
+    </div>
+    
+</body>
+</html>

@@ -1,0 +1,66 @@
+\\lmi-it-fss1\users\jstauffer\visual studio 2015\Projects\mongopb\mongopb\bin\roslyn\csc.exe
+\\lmi-it-fss1\users\jstauffer\visual studio 2015\Projects\mongopb\mongopb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\lmi-it-fss1\users\jstauffer\visual studio 2015\Projects\mongopb\mongopb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\lmi-it-fss1\users\jstauffer\visual studio 2015\Projects\mongopb\mongopb\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\lmi-it-fss1\users\jstauffer\visual studio 2015\Projects\mongopb\mongopb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\lmi-it-fss1\users\jstauffer\visual studio 2015\Projects\mongopb\mongopb\bin\roslyn\Microsoft.CSharp.Core.targets
+\\lmi-it-fss1\users\jstauffer\visual studio 2015\Projects\mongopb\mongopb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\lmi-it-fss1\users\jstauffer\visual studio 2015\Projects\mongopb\mongopb\bin\roslyn\System.Collections.Immutable.dll
+\\lmi-it-fss1\users\jstauffer\visual studio 2015\Projects\mongopb\mongopb\bin\roslyn\System.Reflection.Metadata.dll
+\\lmi-it-fss1\users\jstauffer\visual studio 2015\Projects\mongopb\mongopb\bin\roslyn\vbc.exe
+\\lmi-it-fss1\users\jstauffer\visual studio 2015\Projects\mongopb\mongopb\bin\roslyn\VBCSCompiler.exe
+\\lmi-it-fss1\users\jstauffer\visual studio 2015\Projects\mongopb\mongopb\bin\roslyn\VBCSCompiler.exe.config
+\\lmi-it-fss1\users\jstauffer\visual studio 2015\Projects\mongopb\mongopb\bin\mongopb.dll.config
+\\lmi-it-fss1\users\jstauffer\visual studio 2015\Projects\mongopb\mongopb\bin\mongopb.dll
+\\lmi-it-fss1\users\jstauffer\visual studio 2015\Projects\mongopb\mongopb\bin\mongopb.pdb
+\\lmi-it-fss1\users\jstauffer\visual studio 2015\Projects\mongopb\mongopb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\lmi-it-fss1\users\jstauffer\visual studio 2015\Projects\mongopb\mongopb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\lmi-it-fss1\users\jstauffer\visual studio 2015\Projects\mongopb\mongopb\obj\Debug\mongopb.csprojResolveAssemblyReference.cache
+\\lmi-it-fss1\users\jstauffer\visual studio 2015\Projects\mongopb\mongopb\obj\Debug\mongopb.dll
+\\lmi-it-fss1\users\jstauffer\visual studio 2015\Projects\mongopb\mongopb\obj\Debug\mongopb.pdb
+C:\inetpub\wwwroot\mongopb\mongopb\bin\roslyn\csc.exe
+C:\inetpub\wwwroot\mongopb\mongopb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\inetpub\wwwroot\mongopb\mongopb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\inetpub\wwwroot\mongopb\mongopb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\inetpub\wwwroot\mongopb\mongopb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\inetpub\wwwroot\mongopb\mongopb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\inetpub\wwwroot\mongopb\mongopb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\inetpub\wwwroot\mongopb\mongopb\bin\roslyn\System.Collections.Immutable.dll
+C:\inetpub\wwwroot\mongopb\mongopb\bin\roslyn\System.Reflection.Metadata.dll
+C:\inetpub\wwwroot\mongopb\mongopb\bin\roslyn\vbc.exe
+C:\inetpub\wwwroot\mongopb\mongopb\bin\roslyn\VBCSCompiler.exe
+C:\inetpub\wwwroot\mongopb\mongopb\bin\roslyn\VBCSCompiler.exe.config
+C:\inetpub\wwwroot\mongopb\mongopb\bin\mongopb.dll.config
+C:\inetpub\wwwroot\mongopb\mongopb\bin\mongopb.dll
+C:\inetpub\wwwroot\mongopb\mongopb\bin\mongopb.pdb
+C:\inetpub\wwwroot\mongopb\mongopb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\inetpub\wwwroot\mongopb\mongopb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\inetpub\wwwroot\mongopb\mongopb\obj\Debug\mongopb.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\mongopb\mongopb\obj\Debug\mongopb.dll
+C:\inetpub\wwwroot\mongopb\mongopb\obj\Debug\mongopb.pdb
+C:\inetpub\wwwroot\mongopb\mongopb\bin\Microsoft.Web.Infrastructure.dll
+C:\inetpub\wwwroot\mongopb\mongopb\bin\MongoDB.Bson.dll
+C:\inetpub\wwwroot\mongopb\mongopb\bin\MongoDB.Driver.Core.dll
+C:\inetpub\wwwroot\mongopb\mongopb\bin\MongoDB.Driver.dll
+C:\inetpub\wwwroot\mongopb\mongopb\bin\Newtonsoft.Json.dll
+C:\inetpub\wwwroot\mongopb\mongopb\bin\System.Net.Http.Formatting.dll
+C:\inetpub\wwwroot\mongopb\mongopb\bin\System.Web.Helpers.dll
+C:\inetpub\wwwroot\mongopb\mongopb\bin\System.Web.Http.Common.dll
+C:\inetpub\wwwroot\mongopb\mongopb\bin\System.Web.Http.dll
+C:\inetpub\wwwroot\mongopb\mongopb\bin\System.Web.Http.WebHost.dll
+C:\inetpub\wwwroot\mongopb\mongopb\bin\System.Web.Razor.dll
+C:\inetpub\wwwroot\mongopb\mongopb\bin\System.Web.WebPages.Deployment.dll
+C:\inetpub\wwwroot\mongopb\mongopb\bin\System.Web.WebPages.dll
+C:\inetpub\wwwroot\mongopb\mongopb\bin\System.Web.WebPages.Razor.dll
+C:\inetpub\wwwroot\mongopb\mongopb\bin\MongoDB.Bson.xml
+C:\inetpub\wwwroot\mongopb\mongopb\bin\MongoDB.Driver.xml
+C:\inetpub\wwwroot\mongopb\mongopb\bin\Newtonsoft.Json.xml
+C:\inetpub\wwwroot\mongopb\mongopb\bin\System.Net.Http.Formatting.xml
+C:\inetpub\wwwroot\mongopb\mongopb\bin\System.Web.Helpers.xml
+C:\inetpub\wwwroot\mongopb\mongopb\bin\System.Web.Http.xml
+C:\inetpub\wwwroot\mongopb\mongopb\bin\System.Web.Http.Common.xml
+C:\inetpub\wwwroot\mongopb\mongopb\bin\System.Web.Http.WebHost.xml
+C:\inetpub\wwwroot\mongopb\mongopb\bin\System.Web.Razor.xml
+C:\inetpub\wwwroot\mongopb\mongopb\bin\System.Web.WebPages.xml
+C:\inetpub\wwwroot\mongopb\mongopb\bin\System.Web.WebPages.Deployment.xml
+C:\inetpub\wwwroot\mongopb\mongopb\bin\System.Web.WebPages.Razor.xml
